@@ -1,2 +1,3 @@
 Hola a todos los demas !! 
-Claro la verison 20201101_0958
+
+Cambio a la nueva version 20201011_1022
